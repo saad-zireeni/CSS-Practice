@@ -1,0 +1,25 @@
+#bg{
+    width: 900px;
+    height: 500px;
+    background-color: #fffff1;
+    border-right: 2px solid black;
+}
+h3{
+    font-weight: bold;
+}
+p{
+    width: 200px;
+    height: 100px;
+    display: inline-block;
+    background-color: #eaeaed;
+    overflow: hidden;
+    margin-left: 10px;
+}
+#scroll{
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+    overflow-y: scroll;
+    font-weight: bold;
+    height: 70px;
+    margin: 10px;
+}

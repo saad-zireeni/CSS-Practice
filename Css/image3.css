@@ -1,0 +1,27 @@
+main{
+    font-size: large;
+}
+h1{
+    text-decoration-line: underline;
+}
+.blue{
+    color: blue;
+}
+.green{
+    color: #ffa606;
+}
+.red{
+    color: red;
+}
+.main-list > li{
+    margin-top: 20px;
+}
+#colors-list{
+    list-style: none;
+}
+.bold{
+    font-weight: bold;
+}
+div{
+    margin-top: 20px;
+}
